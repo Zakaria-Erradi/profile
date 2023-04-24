@@ -1,0 +1,23 @@
+
+#service .box {
+    border: 1px solid #b1b1b1;
+    background-color: white;
+    border-radius: 10px;
+    height:400px;
+    width: 100%;
+    box-shadow: 6px 8px 1px  black;
+    text-align: center;
+}
+#service .box  svg {
+    color:blue;
+    font-size: 80px;
+    margin-top: 10px;
+}
+footer {
+    background-color: #1e1e1e;
+    color: white;
+    height:100px;
+    width:100vw;
+    
+
+}
